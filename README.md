@@ -1,2 +1,0 @@
-# GreenLavomatic
-Test
